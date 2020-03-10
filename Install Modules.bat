@@ -1,1 +1,1 @@
-py -m pip install clipboard 
+py -m pip install keyboard clipboard

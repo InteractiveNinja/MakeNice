@@ -1,1 +1,1 @@
-py -m pip install clipboard --proxy [Proxy Adress]
+py -m pip install keyboard clipboard --proxy [Proxy Adress]
