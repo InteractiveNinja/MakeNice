@@ -1,0 +1,1 @@
+py -m pip install clipboard --proxy [Proxy Adress]
