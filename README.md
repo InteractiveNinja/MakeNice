@@ -4,10 +4,22 @@ To make this thing work you need the library [clipboard](https://pypi.org/projec
 
 ## How to use
 
-1. Copy Text into Clipboard (CTRL + C)
-2. Dobble Click the Python File
-3. Paste the Text in you Field you wanted it in
-4. Done ~~be Happy~~
+### New Way
+1. Dobble Click the Pyton File (CTRL + C)
+2. Copy Text into Clipboard
+3. Press CTRL + SHIFT + Ü on the Field you want to fill
+4. Done ~~be Happy
+
+### Old way
+~~1. Copy Text into Clipboard (CTRL + C)
+
+~~2. Dobble Click the Python File
+
+~~3. Paste the Text in you Field you wanted it in
+
+~~4. Done be Happy
+
+
 
 ## Problems with Installing the Modules?
 
