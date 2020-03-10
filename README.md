@@ -19,6 +19,10 @@ To make this thing work you need the library [clipboard](https://pypi.org/projec
 
 ~~4. Done be Happy~~
 
+## To Kill the Software
+
+* Press CTRL + SHIFT + Q 
+
 
 
 ## Problems with Installing the Modules?
