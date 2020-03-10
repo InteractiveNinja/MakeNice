@@ -13,9 +13,11 @@ def makeNice():
             
     keyboard.write("".join(output))
 
-
 keyboard.add_hotkey('ctrl+shift+ü',makeNice)
-keyboard.add_hotkey('ctrl+shift+q',exit)
 
-while True:
-    time.sleep(1)
+
+while keyboard.is_pressed('ctrl+shift+q') == False:
+    time.sleep(0.2)
+    
+    
+    
